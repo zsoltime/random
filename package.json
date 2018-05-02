@@ -1,8 +1,12 @@
 {
   "name": "utils.random",
   "version": "1.0.0",
-  "description": "",
+  "description": "Random all the things",
   "main": "dist/index.js",
+  "files": [
+    "dist/index.js",
+    "dist/index.min.js"
+  ],
   "scripts": {
     "build": "npm run build:browser && npm run build:node",
     "build:browser": "rollup -c",

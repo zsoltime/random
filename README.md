@@ -27,7 +27,7 @@ import random from 'utils.random';
 You can use it directly in your browser using unpkg.com:
 
 ```html
-<script src="https://unpkg.com/utils.random@1.0.0/dist/index.min.js"></script>
+<script src="https://unpkg.com/utils.random@1.0.1/dist/index.min.js"></script>
 ```
 
 ## Usage
